@@ -27,7 +27,7 @@ Ensure the following tools are installed on your system:
 ### Installation Steps
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/alumni-project.git
+   git clone https://github.com/lanarolle/alumni-project.git
    ```
 
 2. **Setup the Database:**
